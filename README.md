@@ -9,6 +9,9 @@ Relay Module
 DHT11
 Connecting Wires
 
+Circuit Diagram -
+
+
 
 Programming ESP8266 NodeMCU for Automatic Irrigation System
 For programming the ESP8266 NodeMCU module, only the DHT11 sensor library is used as external library. The moisture sensor gives analog output which can be read through the ESP8266 NodeMCU analog pin A0. Since the NodeMCU cannot give output voltage greater than 3.3V from its GPIO so we are using a relay module to drive the 5V motor pump. Also the Moisture sensor and DHT11 sensor is powered from external 5V power supply.
