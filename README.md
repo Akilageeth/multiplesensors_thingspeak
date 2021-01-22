@@ -14,7 +14,7 @@ Connecting Wires
 
 Circuit Diagram -
 
-![Circuit-Diagram-for-IoT-based-Smart-Irrigation-System-using-Soil-Moisture-Sensor-and-ESP8266-NodeMCU](https://user-images.githubusercontent.com/44220596/105461696-95611100-5cb3-11eb-9ffe-132122e9ebed.png)
+![Circuit-Diagram-for-IoT-based-Smart-Irrigation-System-using-Soil-Moisture-Sensor-and-ESP8266-NodeMCU](https://user-images.githubusercontent.com/44220596/105462092-29cb7380-5cb4-11eb-9ad3-cd312f33fd33.jpg)
 
 
 
