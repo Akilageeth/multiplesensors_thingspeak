@@ -5,12 +5,12 @@
 
 Components Required -
 
-NodeMCU ESP8266
-1)Soil Moisture Sensor Module
-2)Water Pump Module
-3)Relay Module
-4)DHT11
-5)Connecting Wires
+1) NodeMCU ESP8266
+2) Soil Moisture Sensor Module
+3) Water Pump Module
+4) Relay Module
+5) DHT11
+6) Connecting Wires
 
 Circuit Diagram -
 
